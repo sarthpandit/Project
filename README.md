@@ -1,4 +1,4 @@
-# 21042301_pandit_fvq_autumn_2021
+# DATA SCIENCE PROJECT
 
 Programming for Data Science
 
